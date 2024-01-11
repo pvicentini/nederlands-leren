@@ -1,34 +1,34 @@
-lager	     |  lower
-ogenblik	 |  moment
-blik	     |  look
-nutteloos	 |  useless
-hiermee	     |  with this
-daarmee	     |  with that
-beleid	     |  policy
-deurwaarder	 |  bailiff
-zeker niet	 |  certainly not
-weining	     |  little
-waarvan	     |  of which
-stoelen	     |  chairs
-gek	         |  crazy
-koelkast	 |  refrigerator
-vanaf	     |  from
-ruit	     |  diamond
-zijruit	     |  side window
-bevroren	 |  frozen
-weide	     |  Meadow
-schuld	     |  debt
-hoorde	     |  heard
-bescherming	 |  protection
-schuldeiser	 |  creditor
-zicht	     |  view
-afhangen	 |  depend
-daarin	     |  in there
-torsen	     |  torsen
-blazen	     |  blow
-opengegaan	 |  opened
-bekend	     |  known
-meldingen	 |  notifications
-raakt	     |  hits
-helaas	     |  unfortunately
-schuldig	 |  guilty
+lager        |  lower
+ogenblik     |  moment
+blik         |  look
+nutteloos    |  useless
+hiermee      |  with this
+daarmee      |  with that
+beleid       |  policy
+deurwaarder  |  bailiff
+zeker niet   |  certainly not
+weining      |  little
+waarvan      |  of which
+stoelen      |  chairs
+gek          |  crazy
+koelkast     |  refrigerator
+vanaf        |  from
+ruit         |  diamond
+zijruit      |  side window
+bevroren     |  frozen
+weide        |  Meadow
+schuld       |  debt
+hoorde       |  heard
+bescherming  |  protection
+schuldeiser  |  creditor
+zicht        |  view
+afhangen     |  depend
+daarin       |  in there
+torsen       |  torsen
+blazen       |  blow
+opengegaan   |  opened
+bekend       |  known
+meldingen    |  notifications
+raakt        |  hits
+helaas       |  unfortunately
+schuldig     |  guilty
